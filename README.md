@@ -7,17 +7,14 @@
   Welcome to Praveen Chauhan's World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-
-
+<p align="justify">
+<a href="https://komarev.com/ghpvc/?username=Praveen-2022">
+  <img align="left" src="https://komarev.com/ghpvc/?username=Praveen-2022&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+</p>
 <p align="center">
   <a href="https://github.com/Praveen-2022"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
-
-
-
-<a href="https://komarev.com/ghpvc/?username=Praveen-2022">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Praveen-2022&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
 
 <!-- Intro  -->
 <h3 align="center">
@@ -58,8 +55,6 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: Praveenkumarchauhan2022@gmail.com<br/><br/>
