@@ -1,13 +1,12 @@
 <p align="center">
   <a href="https://github.com/Praveen-2022" target="_blank" rel="norefferrer">
-    <img src="https://github.com/Praveen-2022/Praveen-2022/assets/110144648/1938b01f-5bda-4034-b3f5-d6801e7b948b" alt="my banner">
+    <img src="https://github.com/Praveen-2022/Praveen-2022/assets/110144648/ffa489d3-c2fe-4c67-a475-e3bf79b34960" alt="my banner">
   </a>
 </p>
 <h2 align="center">
   Welcome to Praveen Chauhan's World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-
 
 
 <p align="center">
