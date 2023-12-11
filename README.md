@@ -12,6 +12,7 @@
   <img align="left" src="https://komarev.com/ghpvc/?username=Praveen-2022&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 </p>
+<br/>
 <p align="center">
   <a href="https://github.com/Praveen-2022"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
